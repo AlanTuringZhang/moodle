@@ -5,30 +5,26 @@
     android:orientation="vertical">
 
     <TextView
-        android:id="@+id/sun3_1"
+        android:id="@+id/xuqiudingyi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="孙艳春老师的教学视频"
-        android:textSize="30dp"
-        android:textColor="@android:color/background_dark"/>
-
+        android:text="软件需求的定义"
+        android:textSize="30dp"/>
 
     <TextView
-        android:id="@+id/chen3_1"
+        android:id="@+id/fenlei3_1_3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="陈越老师的教学视频"
+        android:text="软件需求的分类"
         android:textSize="30dp"
-        android:layout_marginTop="16dp"
-        android:textColor="@android:color/background_dark"/>
+        android:layout_marginTop="16dp"/>
 
     <TextView
-        android:id="@+id/tan3_1"
+        android:id="@+id/panduanxuqiu"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="谭庆平老师的教学视频"
+        android:text="课堂练习：判断是否属于需求项，并说明什么类别的需求项"
         android:textSize="30dp"
-        android:layout_marginTop="16dp"
-        android:textColor="@android:color/background_dark"/>
+        android:layout_marginTop="16dp"/>
 
 </LinearLayout>
